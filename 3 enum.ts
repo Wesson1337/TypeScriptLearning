@@ -16,3 +16,5 @@ enum SocialMedia {
     INSTAGRAM = "INSTAGRAM"
 }
 
+
+console.log(SocialMedia.VK)
